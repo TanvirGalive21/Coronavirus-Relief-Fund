@@ -1,6 +1,7 @@
-# Getting Started with Create Coronavirus Relief Fund App
+# My Project
+# Coronavirus Relief Fund App
 
-This project was bootstrapped with [Create React App](https://vigilant-varahamihira-edf197.netlify.app/).
+This project was bootstrapped with [Project Live link](https://vigilant-varahamihira-edf197.netlify.app/).
 
 ## Available Scripts
 
@@ -13,3 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+This is my first react project 
+This project is really really a cool project.
